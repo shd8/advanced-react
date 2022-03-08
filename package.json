@@ -1,0 +1,22 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advanced React",
+  "main": "lib/server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shd8/advanced-react.git"
+  },
+  "author": "shd8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shd8/advanced-react/issues"
+  },
+  "homepage": "https://github.com/shd8/advanced-react#readme"
+}
